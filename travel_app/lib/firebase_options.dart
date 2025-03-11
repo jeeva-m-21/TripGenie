@@ -39,14 +39,14 @@ class DefaultFirebaseOptions {
         );
     }
   }
-
+   //Replace all attributes to yours the existing database is deleted
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyC1-lS0BlhDagdP_62nI6iaEm_xjM-7J-w',
-    appId: '1:543246043210:web:3d95007e61feda3f0cbeb3',
+    apiKey: 'AIzaSyC1-lS0BldsfedfhDagdP_62nI6iaEm_xjM-7J-w',
+    appId: '1:543246043210:web:3ddefwe95007e61feda3f0cbeb3',
     messagingSenderId: '543246043210',
     projectId: 'travelgenie1-b5bbb',
-    authDomain: 'travelgenie1-b5bbb.firebaseapp.com',
-    storageBucket: 'travelgenie1-b5bbb.firebasestorage.app',
+    authDomain: 'travelgenie1-b5bbb.fdfirebaseapp.com',
+    storageBucket: 'travelgenie1-b5bbdfb.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
