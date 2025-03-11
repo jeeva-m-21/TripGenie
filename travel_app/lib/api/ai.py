@@ -2,7 +2,7 @@ from huggingface_hub import InferenceClient
 
 client = InferenceClient(
 	provider="together",
-	api_key="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"
+	api_key="hf_jkVrwJTRPkplxRYQZkXNhHFEfdQYELXKdpb"#Replace Your token api The api key is deleted.
 )
 
 messages = [
